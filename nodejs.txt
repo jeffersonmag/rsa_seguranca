@@ -1,0 +1,23 @@
+baixa o nodejs
+roda os comandos
+npm install -g yarn
+npm i -g @adonisjs/cli
+
+baixa o projeto do bitbucket
+roda os comandos
+yarn install
+adonis serve --dev
+ai vai estar funcionando
+
+url get
+127.0.0.1:3333/keys
+127.0.0.1:3333/keys/v2
+
+urlpost
+127.0.0.1:3333/encrypt
+127.0.0.1:3333/encrypt/v2
+parametros: text, myKey
+
+127.0.0.1:3333/decrypt
+127.0.0.1:3333/decrypt/v2
+parametros: encrypted, myKey
